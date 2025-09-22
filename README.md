@@ -9,7 +9,7 @@ In fact, this code will run both on your local machine **or** SAS Viya Workbench
 This project runs through an example where we:
 
 * Build an XGBoost model on HMEQ
-* Write all the files necessary for SAS Model Manager using [sasctl](https://sassoftware.github.io/python-sasctl/) and [pzmm](https://sassoftware.github.io/python-sasctl/api/sasctl.pzmm.html)
+* Write all the files necessary for SAS Model Manager using [sasctl](https://sassoftware.github.io/python-sasctl/api/sasctl.html) and [pzmm](https://sassoftware.github.io/python-sasctl/api/sasctl.pzmm.html)
 * Register the model to SAS Model Manager
 
 ## Folders
