@@ -1,0 +1,4 @@
+pandas==2.3.2
+sasctl==1.11.5
+sklearn==1.6.1
+xgboost==3.0.0
