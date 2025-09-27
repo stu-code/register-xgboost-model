@@ -19,7 +19,7 @@ This project runs through an example where we:
 [hmeq.csv](https://support.sas.com/documentation/onlinedoc/viya/examples.htm)
 
 ## Requirements
-See [requirements.txt](./requirements.txt)
+[requirements.txt](./requirements.txt)
 
 ## Expected directory structure:
 
