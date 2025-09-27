@@ -13,7 +13,7 @@ This project runs through an example where we:
 * Register the model to SAS Model Manager
 
 ## Folders
-**model**: All model files needed for Model Manager and a zip of these files that you can upload directly to SAS Model Manager
+**model**: All model files needed for SAS Model Manager and a zip of these files that you can upload directly to it
 
 ## Data
 [hmeq.csv](https://support.sas.com/documentation/onlinedoc/viya/examples.htm)
